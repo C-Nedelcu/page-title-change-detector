@@ -1,0 +1,9 @@
+C:\Users\Clem\source\repos\PageTitleChangeDetector\PageTitleChangeDetector\bin\Debug\PageTitleChangeDetector.exe
+C:\Users\Clem\source\repos\PageTitleChangeDetector\PageTitleChangeDetector\bin\Debug\PageTitleChangeDetector.pdb
+C:\Users\Clem\source\repos\PageTitleChangeDetector\PageTitleChangeDetector\obj\Debug\PageTitleChangeDetector.csprojAssemblyReference.cache
+C:\Users\Clem\source\repos\PageTitleChangeDetector\PageTitleChangeDetector\obj\Debug\PageTitleChangeDetector.Form1.resources
+C:\Users\Clem\source\repos\PageTitleChangeDetector\PageTitleChangeDetector\obj\Debug\PageTitleChangeDetector.Properties.Resources.resources
+C:\Users\Clem\source\repos\PageTitleChangeDetector\PageTitleChangeDetector\obj\Debug\PageTitleChangeDetector.csproj.GenerateResource.cache
+C:\Users\Clem\source\repos\PageTitleChangeDetector\PageTitleChangeDetector\obj\Debug\PageTitleChangeDetector.csproj.CoreCompileInputs.cache
+C:\Users\Clem\source\repos\PageTitleChangeDetector\PageTitleChangeDetector\obj\Debug\PageTitleChangeDetector.exe
+C:\Users\Clem\source\repos\PageTitleChangeDetector\PageTitleChangeDetector\obj\Debug\PageTitleChangeDetector.pdb
